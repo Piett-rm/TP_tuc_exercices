@@ -21,7 +21,7 @@ jobs:
       - name: Pytest
         run: | 
           python -m pytest
-          --exit-zero  
       - name: Pytlint
         run: |
           pylint application/ tests/
+          --exit-zero  
