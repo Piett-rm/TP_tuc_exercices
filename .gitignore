@@ -4,3 +4,6 @@
 *htmlcov*
 *prof*
 *.coverage*
+Scripts/
+Lib/
+Include/
